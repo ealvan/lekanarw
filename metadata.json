@@ -1,0 +1,6 @@
+{
+  "name": "LEKANAR",
+  "description": "Plataforma e Infraestructura Corporativa de LEKANAR. Soluciones de Alta Confianza en Fusión de Fibra Óptica (Planta Interna/Externa), Desarrollo de Software a Medida, Seguridad Física y Suministro Informático Homologado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
